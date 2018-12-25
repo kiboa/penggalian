@@ -1,0 +1,2 @@
+# penggalian
+Alat
